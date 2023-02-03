@@ -1,8 +1,8 @@
 {
   "Visibility": "true",
   "Title": "Test",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
+  "Description": "There is a problem to run this app contact Developer to fix this error",
+  "MainTextButton": "Contact Developer",
   "Cancelable": true,
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",
