@@ -1,10 +1,1 @@
-{
-  "Visibility": "true",
-  "Title": "Test",
-  "Description": "There is a problem to run this app contact Developer to fix this error",
-  "MainTextButton": "Contact Developer",
-  "Cancelable": true,
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
-  "Version": 1.1
-}
+{"DownloadLink":"https://telegram.me/its_seven_official","Description":"There was a error","MainTextButton":"Contact Developer","Title":"Error to run application!!","Visibility":"true","Cancelable":"no"}
