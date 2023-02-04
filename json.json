@@ -3,6 +3,6 @@
 	"Title": "Error to run app!",
 	"Description": "There is a problem, application can't run currently contact Developer to fix the error",
 	"Cancelable": "no",
-        "MainTextButton": "Contact Developer",
+        "MainTextButton": "Contact Developer.",
         "DownloadLink": "https://telegram.me/its_seven_official"
 }
